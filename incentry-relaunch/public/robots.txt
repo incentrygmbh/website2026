@@ -1,7 +1,0 @@
-# WICHTIG: Diese robots.txt gilt für das Relaunch-Projekt.
-# Solange die Seite parallel zur Live-Domain aufgebaut wird und noch nicht
-# live geschaltet ist, sollte Crawling verhindert werden (Duplicate-Content-
-# und Indexierungsrisiko). Vor dem eigentlichen Switch auf Allow umstellen
-# und die Sitemap-URL ergänzen.
-User-agent: *
-Disallow: /
